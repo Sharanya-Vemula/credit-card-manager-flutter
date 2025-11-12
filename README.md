@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # credit_card_manager
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# credit-card-manager-flutter
+>>>>>>> 187f794366f7baa42d95549b3aa0f5d0309040bc
